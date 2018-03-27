@@ -1,0 +1,6 @@
+STANDALONE_CC := /home/masa/arm-xilinx-eabi-gcc
+LINUX_CC :=/home/masa/eda/xilinx/vivado_2015.4/SDK/2015.4/gnu/aarch32/lin/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-g++
+VIVADO_VERSION := 2015.4
+VIVADO_PATH := /home/masa/eda/xilinx/vivado_2015.4/Vivado
+VIVADO_BIN :=$(VIVADO_PATH)/$(VIVADO_VERSION)/bin/vivado
+XMD:=/home/masa/eda/xilinx/vivado_2015.4/SDK/2015.4/bin/xmd
